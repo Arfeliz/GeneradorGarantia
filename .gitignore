@@ -1,0 +1,33 @@
+# --- .NET / C# ---
+bin/
+obj/
+publish/
+*.exe
+*.dll
+*.pdb
+*.nupkg
+
+# --- Visual Studio Code ---
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# --- User-specific files ---
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- PDF Output (Evita subir las cartas generadas) ---
+*.pdf
+
+# --- Logs ---
+*.log
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
