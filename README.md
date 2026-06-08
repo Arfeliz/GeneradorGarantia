@@ -21,19 +21,13 @@
 - **Librería PDF**: [QuestPDF](https://www.questpdf.com/) (Community License)
 - **IDE**: VS Code / Visual Studio
 
-## 📸 Capturas del Proyecto
-
-| Menú Principal | Formulario de Garantía |
-| :--- | :--- |
-| ![Menu](https://via.placeholder.com/300x200?text=Menu+Principal) | ![Form](https://via.placeholder.com/300x200?text=Formulario+Detallado) |
-
 ## 🚀 Instalación y Ejecución (Desarrollo)
 
 Si deseas clonar y ejecutar este proyecto localmente:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone [https://github.com/tu-usuario/GeneradorCartasGarantia.git](https://github.com/tu-usuario/GeneradorCartasGarantia.git)
+   git clone [https://github.com/Arfeliz/GeneradorCartasGarantia.git](https://github.com/Arfeliz/GeneradorCartasGarantia.git)
 
 
 2.Restaurar dependencias:
